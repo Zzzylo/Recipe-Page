@@ -23,15 +23,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![recipe page - desktop view](image.png)
-![recipe page - desktop view](image-1.png)
-![recipe page - mobile view](image-2.png)
-![recipe page - mobile view](image-3.png)
+![recipe page - desktop view](webpage.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Zzzylo/Recipe-Page)
-- Live Site URL: [Add live site URL here](https://zzzylo.github.io/Recipe-Page/)
+- Solution: [Solution URL](https://github.com/Zzzylo/Recipe-Page)
+- Live Website: [Recipe Page](https://zzzylo.github.io/Recipe-Page/)
 
 ## My process
 
